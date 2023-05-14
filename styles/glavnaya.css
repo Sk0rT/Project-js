@@ -1,0 +1,34 @@
+p.profile {
+  
+}
+
+img.osnov {
+    position: relative;
+    text-align: center;
+    color: aliceblue;
+}
+
+img.basket {
+    position: relative;
+    width: 25px;
+    margin-left: 650px;
+}
+
+img.profile {
+    width: 25px;
+    position: relative;
+    
+}
+
+input.search {
+    margin-left: 55px;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+.verh {
+    background-color: brown;
+    border-radius: 100px;
+}

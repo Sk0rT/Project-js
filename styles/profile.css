@@ -1,0 +1,23 @@
+.photo {
+    background-color: rgb(92, 70, 70);
+    margin-right: 750px;
+    
+
+}
+img.photoprofile {
+    width: 80px;
+  
+
+}
+
+a.log {
+    display: inline-block;
+    margin-left: 20px;
+    padding: 20px 15px;
+}
+
+p.footer {
+    text-align: center;
+    background-color: rgb(54, 44, 44);
+    color: aliceblue;
+}
