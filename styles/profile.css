@@ -1,23 +1,11 @@
-.photo {
-    background-color: rgb(92, 70, 70);
-    margin-right: 750px;
-    
+section {
+    margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	font-family: 'Jost', sans-serif;
+	background: linear-gradient(to bottom, #342381, #522e80, #311f53);
+};
 
-}
-img.photoprofile {
-    width: 80px;
-  
-
-}
-
-a.log {
-    display: inline-block;
-    margin-left: 20px;
-    padding: 20px 15px;
-}
-
-p.footer {
-    text-align: center;
-    background-color: rgb(54, 44, 44);
-    color: aliceblue;
-}
